@@ -1,4 +1,4 @@
-module ARM-core
+module github.com/ddoniyor/ARM-core
 
 go 1.13
 
